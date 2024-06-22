@@ -1,0 +1,20 @@
+<resources>
+
+    <!-- Define as cores personalizadas da paleta da sua empresa -->
+    <color name="corPrimaria">#3F51B5</color>
+    <color name="corPrimariaEscura">#303F9F</color>
+    <color name="corSecundaria">#FF4081</color>
+    <color name="corFundo">#FFFFFF</color>
+
+    <!-- Define um estilo de tema personalizado -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/corPrimaria</item> <!-- Cor da barra de ação -->
+        <item name="colorPrimaryDark">@color/corPrimariaEscura</item> <!-- Cor da barra de status -->
+        <item name="colorAccent">@color/corSecundaria</item> <!-- Cor de destaque para botões, controles etc. -->
+        <item name="android:windowBackground">@color/corFundo</item> <!-- Cor de fundo da janela -->
+
+    </style>
+
+</resources>
+

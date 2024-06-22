@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "57712417588",
+    "firebase_url": "https://entradasesaidas-9ef66-default-rtdb.firebaseio.com",
+    "project_id": "entradasesaidas-9ef66",
+    "storage_bucket": "entradasesaidas-9ef66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57712417588:android:f0c44bc7691bd19b21a361",
+        "android_client_info": {
+          "package_name": "com.bsouza.entradaesaida01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtzHgTgYMcrgtIs8iHte4luHfEF1etTmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
